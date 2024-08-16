@@ -24,24 +24,29 @@
 I setup my github repo. I know basics of DSA but I still need to practise to get better with it. I will be starting with "Trees" Data Strctures and I have co-up with DSA Lectures for Masters.
 
 #### 📅 Day 01 :
-I learnt the basics about Trees and most of the Geekforgeeks link above serves as notes but parts were missing there and hence I am writing them here so use this along with the [this link](https://www.geeksforgeeks.org/introduction-to-tree-data-structure/?ref=lbp) for complete notes on basics of Trees
+I learnt the basics about **Trees** and most of the Geekforgeeks link above serves as notes but parts were missing there and hence I am writing them here so use this along with the [this link](https://www.geeksforgeeks.org/introduction-to-tree-data-structure/?ref=lbp) for complete notes on basics of Trees
 
-- _Depth of Node_ -> lenght of the path from root node to the node
-- _Height of Node_ -> lenght of the path from node to the deepest node
 -  _Level of Tree_ -> Root node is said to be at Depth 0 or Level 0 and the next layer of node is said to be at level 1 or depth 1 and so on
-- _Depth of Tree_ is Depth of Root Node which is always ZERO
-- _Height of Tree_ is Height of Root Node
 
-##### Types of Binary Trees:
-    - Full Tree
-    - Perfect Tree
-    - Complete Tree
-    - Balanced Tree
+
+##### [Types of Binary Trees](https://www.geeksforgeeks.org/introduction-to-binary-tree/?ref=lbp):
 
 ##### Binary Tree Representation:
     - Using Linked List
+        - Data
+        - Left
+        - Right
     - Python List (or Array)
+        - 0th index is left blank
+        - 1st index is root node
+        - then index of left is given by 2x where x is the index of the node
+        - then index of right is given by 2x + 1 where x is the index of the node
 
+#### 📅 Day 02 :
+Implemetation for the Tree using LinkedList(Incomplete)
+
+#### 📅 Day 03 :
+Revision
 
 
 
