@@ -29,7 +29,7 @@ I learnt the basics about **Trees** and most of the Geekforgeeks link above serv
 -  _Level of Tree_ -> Root node is said to be at Depth 0 or Level 0 and the next layer of node is said to be at level 1 or depth 1 and so on
 
 
-##### [Types of Binary Trees](https://www.geeksforgeeks.org/introduction-to-binary-tree/?ref=lbp):
+##### [Binary Trees](https://www.geeksforgeeks.org/introduction-to-binary-tree/?ref=lbp):
 
 ##### Binary Tree Representation:
     - Using Linked List
@@ -46,7 +46,8 @@ I learnt the basics about **Trees** and most of the Geekforgeeks link above serv
 Implemetation for the Tree using LinkedList(Incomplete)
 
 #### 📅 Day 03 :
-Revision
+Revision and [Binary Search Tree](https://www.geeksforgeeks.org/introduction-to-binary-search-tree/?ref=lbp)
+
 
 
 
